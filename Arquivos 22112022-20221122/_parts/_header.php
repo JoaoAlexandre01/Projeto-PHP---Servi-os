@@ -38,8 +38,13 @@ $arqui = explode(DIRECTORY_SEPARATOR,$_SERVER['PHP_SELF']);
   <div
     class="p-4 text-center bg-image"
     style="
-      background-image: url('images/fundo.jpg');
-      height: 250px;">
+      background-image: url('images/WhatsApp Image 2022-11-22 at 15.45.32 (1).jpeg');
+      background-repeat:no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      width: 100%;
+      height: 650px;
+      ">
     <div class="mask" style="background-color: rgba(0, 0, 0, 0.6); margin-top: 50px;">
       <div class="d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
